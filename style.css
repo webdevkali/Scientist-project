@@ -11,6 +11,10 @@ color: rgb(94, 94, 214);
     padding-left: 10%;
 }
 
+.personal-card {
+    margin: auto;
+}
+
 .event-name{
     font-size: large;
     font-weight: 100;
@@ -29,6 +33,14 @@ color: rgb(94, 94, 214);
     text-align: center;
 }
 
+h3{
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+
+}
+
 #upcoming-events {
 color: aliceblue;
   background-color: rgb(38, 46, 67);
@@ -38,8 +50,16 @@ color: aliceblue;
     
 }
 
+.card-body{
+    grid-template-columns: auto auto auto;
+
+
+}
+
 .card-body img{
     display: grid;
+    margin: auto;
+    padding: 5px;
     border-radius: 25%;
     border-style: groove;
 
@@ -47,4 +67,8 @@ color: aliceblue;
 
 .event-name{
     color: aliceblue;
+}
+
+.container-fluid{
+    background-color: rgb(173, 211, 255);
 }
