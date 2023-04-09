@@ -10,3 +10,41 @@ color: rgb(94, 94, 214);
 .col-6 { 
     padding-left: 10%;
 }
+
+.event-name{
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+}
+
+.location{
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+}
+
+.date{
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+}
+
+#upcoming-events {
+color: aliceblue;
+  background-color: rgb(38, 46, 67);
+    border: solid 5px grey;
+
+   
+    
+}
+
+.card-body img{
+    display: grid;
+    border-radius: 25%;
+    border-style: groove;
+
+}
+
+.event-name{
+    color: aliceblue;
+}
