@@ -131,3 +131,8 @@ color: darkblue;
 
 }
 
+#footer{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
