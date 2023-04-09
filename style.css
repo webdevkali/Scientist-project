@@ -1,3 +1,7 @@
+.menu-bg{
+    font-family: 'Courier New', Courier, monospace;
+}
+
 h1{
 text-align: center;
 color: rgb(94, 94, 214);
@@ -33,7 +37,7 @@ color: rgb(94, 94, 214);
     text-align: center;
 }
 
-h3{
+.header {
     font-weight:bold;
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
@@ -44,7 +48,7 @@ h3{
 #upcoming-events {
 color: aliceblue;
   background-color: rgb(38, 46, 67);
-    border: solid 5px grey;
+    border: solid 5px lightgray;
 
    
     
@@ -75,7 +79,7 @@ color: aliceblue;
 
 .button{
     text-align: center;
-   background-color: cornflowerblue;
+   background-color: rgb(100, 149, 237, 50);
 
 }
 
@@ -84,3 +88,46 @@ color: aliceblue;
    color: darkblue;
 
 }
+
+#articles {
+    border: solid 5px rgb(255, 255, 255);
+    background-color: rgb(242, 243, 243);
+    padding: 15px
+}
+
+h5{
+    font-weight: lighter;
+}
+
+.article-content{
+    border: solid 2px;
+    margin: 15pt;
+    padding: 15pt;
+}
+
+
+.mb-3{
+    margin: 40px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: darkblue;
+}
+
+#exampleFormControlTextarea1{
+    margin: 10px;
+   
+}
+
+#submit{
+    color: navy;
+    background-color:lightskyblue;
+    border-radius: 20%;
+    margin: 20px;
+    
+}
+
+.sbutton{
+   text-align: center;
+   margin: 30px;
+
+}
+
