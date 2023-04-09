@@ -1,0 +1,12 @@
+h1{
+text-align: center;
+color: rgb(94, 94, 214);
+}
+
+.col-4{
+    padding-left: 5%;
+}
+
+.col-6 { 
+    padding-left: 10%;
+}
