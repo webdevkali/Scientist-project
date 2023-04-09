@@ -72,3 +72,15 @@ color: aliceblue;
 .container-fluid{
     background-color: rgb(173, 211, 255);
 }
+
+.button{
+    text-align: center;
+   background-color: cornflowerblue;
+
+}
+
+.button button{
+    text-align: center;
+   color: darkblue;
+
+}
